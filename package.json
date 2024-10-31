@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@opentelemetry/api": "^1.9.0",
+    "@opentelemetry/auto-instrumentations-node": "^0.52.0",
+    "@opentelemetry/winston-transport": "^0.7.0",
+    "express": "^4.21.1",
+    "winston": "^3.15.0"
+  },
+  "type": "commonjs",
+  "name": "bug-instrumentation-wiston",
+  "version": "1.0.0",
+  "main": "instrumentation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
